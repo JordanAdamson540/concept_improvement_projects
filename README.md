@@ -1,4 +1,4 @@
-#README
+
 The goal of this repository is to create programs that help me understand certain concepts. Some projects are random, others much more beneficial. I will try to list each 
 project out and give a brief description here
 
